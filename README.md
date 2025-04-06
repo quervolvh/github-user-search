@@ -24,6 +24,12 @@ An Android application built with Kotlin and Jetpack Compose that allows users t
 
 ---
 
+## 🚀 Demo video
+
+- https://www.dropbox.com/scl/fi/inxkudkic5zsbah1089kj/github-user-search.mp4?rlkey=0k482gcdv42wugzrvkqbgd3wj&st=wdvndi59&dl=0
+
+---
+
 ## 🚀 Activity log
 
 - Activity One: Project setup (approx. 5hrs)

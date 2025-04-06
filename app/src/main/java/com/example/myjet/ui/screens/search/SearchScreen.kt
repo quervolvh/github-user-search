@@ -52,7 +52,7 @@ fun SearchScreen(
             )
 
             Text(
-                if (searchResults.foundUsers?.items?.isEmpty() == true) "Unfortunately, your search did not find any users" else "We found 5 user(s)!",
+                if (searchResults.foundUsers?.items?.isEmpty() == true) "Unfortunately, your search did not find any users" else "We found some users!",
                 fontSize = TextUnit(14.0F, type = TextUnitType.Sp),
                 fontFamily = FontFamily(Font(R.font.poppins_regular)),
                 color = Color.White,
